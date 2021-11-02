@@ -67,8 +67,8 @@
 </table>
 </table>
 
-                   <h2>Pasos</h2>
-                   <h2>Paso 1:</h2><p>Precalentamos nuestro horno a 250º C.
+<h2>Pasos</h2>
+<h2>Paso 1:</h2><p>Precalentamos nuestro horno a 250º C.
     Espolvoreamos con harina la encimera. Estiramos la masa con el rodillo de manera que quede lo suficientemente fina para que cuando la horneemos quede crujiente.
    Añadimos la salsa de tomate frito casero o tomate natural triturado con una cuchara.<br> 
 <h2>Paso 2:</h2><p>Debemos untar toda la superficie dejando los bordes sin tomate, con un pincel  o    con la misma cuchara, con movimientos circulares.
@@ -92,10 +92,10 @@
     
     </body>
 <h2 id=tortilla>Receta de Tortilla Española</h2>
- <ul>
-            <li>Tiempo: 25 min</li>
-            <li>Para unas 2 personas</li>
-        </ul>
+<ul>
+<li>Tiempo: 25 min</li>
+<li>Para unas 2 personas</li>
+</ul>
  <table>
             <thead>
                 <tr>
