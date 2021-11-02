@@ -1,49 +1,48 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>LIBRO DE RECETAS</title>
-        <meta charset="utf-8">
-        <style>
-        </style>
-    </head>
-    <body>
+<head>
+<title>LIBRO DE RECETAS</title>
+<meta charset="utf-8">
+<style>
+</style>
+</head>
+<body>
        
-        <h1>LIBRO DE RECETAS</h1>
+<h1>LIBRO DE RECETAS</h1>
+<h2>Contenidos:</h2>
         
-        <h2>Contenidos:</h2>
-        
-        <ol>
-            <li><a href="#pizza">Receta de pizza 4 quesos</a></li>
+<ol>
+<li><a href="#pizza">Receta de pizza 4 quesos</a></li>
 <li><a href="#tortilla">Receta de Tortilla Española</a></li>
 <li><a href="#buñuelos">Receta de unos buenos buñuelos</a></li>
-        </ol>
+</ol>
         
-        <h2 id="pizza">Receta de pizza 4 quesos</h2>
+<h2 id="pizza">Receta de pizza 4 quesos</h2>
         
-        <ul>
-            <li>Tiempo: 20 min</li>
-            <li>Para unas 2 personas</li>
-        </ul>
+<ul>
+<li>Tiempo: 20 min</li>
+<li>Para unas 2 personas</li>
+</ul>
         
-        <table>
-            <thead>
-                <tr>
-                  <th>Ingredientes</th>        
+<table>
+<thead>
+<tr>
+<th>Ingredientes</th>        
 <th>Cantidad</th>
-  </tr>
+</tr>
 </thead>
 <tr>
-    <td>Masa de pizza
-    <td>400 gr
-  </tr>
-  <tr>
-    <td>Aceite de oliva
-    <td>15 ml
-  </tr>
+<td>Masa de pizza
+<td>400 gr
+</tr>
 <tr>
-    <td>Salsa de tomate casera
-    <td>150 gr
-  </tr>
+<td>Aceite de oliva
+<td>15 ml
+</tr>
+<tr>
+<td>Salsa de tomate casera
+<td>150 gr
+</tr>
 <tr>
     <td>Orégano
     <td>3 cucharadas
