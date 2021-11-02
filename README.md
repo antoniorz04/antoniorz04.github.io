@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LIBRO DE RECETAS</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>LIBRO DE RECETAS</h1>
+        
+        <h2>Contenidos:</h2>
+        
+        <ol>
+            <li><a href="#pizza">Receta de pizza 4 quesos</a></li>
+<li><a href="#tortilla">Receta de Tortilla Española</a></li>
+<li><a href="#buñuelos">Receta de unos buenos buñuelos</a></li>
+        </ol>
+        
+        <h2 id="pizza">Receta de pizza 4 quesos</h2>
+        
+        <ul>
+            <li>Tiempo: 20 min</li>
+            <li>Para unas 2 personas</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                  <th>Ingredientes</th>        
+<th>Cantidad</th>
+  </tr>
+</thead>
+<tr>
+    <td>Masa de pizza
+    <td>400 gr
+  </tr>
+  <tr>
+    <td>Aceite de oliva
+    <td>15 ml
+  </tr>
+<tr>
+    <td>Salsa de tomate casera
+    <td>150 gr
+  </tr>
+<tr>
+    <td>Orégano
+    <td>3 cucharadas
+  </tr>
+<tr>
+    <td>Queso mozarella
+    <td>250 gr
+  </tr>
+<tr>
+    <td>Queso azul
+    <td>100 gr
+  </tr>
+<tr>
+    <td>Queso parmesano rallado
+    <td>100 gr
+  </tr>
+<tr>
+    <td>Queso suave
+    <td>100 gr
+  </tr>
+</table>
+</table>
+</table>
+
+                   <h2>Pasos</h2>
+                   <h2>Paso 1:</h2><p>Precalentamos nuestro horno a 250º C.
+    Espolvoreamos con harina la encimera. Estiramos la masa con el rodillo de manera que quede lo suficientemente fina para que cuando la horneemos quede crujiente.
+   Añadimos la salsa de tomate frito casero o tomate natural triturado con una cuchara.<br> 
+<h2>Paso 2:</h2><p>Debemos untar toda la superficie dejando los bordes sin tomate, con un pincel  o    con la misma cuchara, con movimientos circulares.
+    Espolvoreamos con el orégano picado.
+    Metemos la base de pizza al horno sobre la plancha de metal. Bajamos la temperatura del horno a 200º C.<br>
+   <h2>Paso 3:</h2><p> Queremos que se fije el tomate y orégano a la base y a la vez conseguir una base crujiente parecida a la de las pizzas profesionales.
+    La dejamos sólo 2-3 minutos, sacamos la pizza del horno y volvemos a subir a tope de temperatura (250 º C) para el horneado final.
+    Repartimos los quesos elegidos encima de la base que acabamos de sacar del horno.
+    Primero espolvoreamos con parmesano rallado. Añadimos los trozos de queso restantes, repartidos de manera estratégica por la superficie.<br>
+             <img src="https://www.bofrost.es/writable/products/images-v2/01774.jpg"> 
+  </tr>
+
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+      
+        
+    <p><em>Fuente: <a href="https://www.recetasderechupete.com/pizza-casera-cuatro-quesos/10469/">La mejor pizza 4 quesos</a></em></p>
+    
+    </body>
+<h2 id=tortilla>Receta de Tortilla Española</h2>
+ <ul>
+            <li>Tiempo: 25 min</li>
+            <li>Para unas 2 personas</li>
+        </ul>
+ <table>
+            <thead>
+                <tr>
+                  <th>Ingredientes</th>        
+<th>Cantidad</th>
+  </tr>
+</thead>
+<tr>
+    <td>Patatas
+    <td>700 gr
+  </tr>
+  <tr>
+    <td>Huevos
+    <td>6
+  </tr>
+<tr>
+    <td>Sal
+    <td>3 puñaditos
+  </tr>
+<tr>
+    <td>Aceite de Oliva virgen extra
+    <td>Lo que te pida el cuerpo
+  </tr>
+</table>
+<h2>Pasos</h2>
+<h2>Paso 1:</h2><p>Pelamos las patatas y las cortamos en rodajas finas, procurando que todas ellas sean de tamaño uniforme. Las dejamos en agua durante 15 minutos y ponemos una sartén con aceite de oliva abundante en el fuego.<br> 
+<h2>Paso 2:</h2><p>Sin dar tiempo a que el aceite se caliente, añadimos las patatas y dejamos que se vayan friendo muy despacio, partiendo de un aceite casi en frío. Así conseguimos que las patatas se confiten en lugar de dorarse. De todas formas, cuando lleven unos diez minutos y hayamos removido de vez en cuando, podemos subir el fuego para conseguir que algunas de las patatas queden más tostaditas, originando así contrastes en el plato final.<br>
+<h2>Paso 3:</h2><p>
+Sacamos las patatas y las escurrimos bien del aceite y las ponemos en un bol grande. Escurrimos la cebolla cuando esté en su punto, y la ponemos sobre las patatas. Batimos los huevos y los añadimos al bol, removiendo con un tenedor para que se mezclen bien los tres ingredientes.Cuajamos la tortilla en una sartén con una cucharada de aceite durante unos tres o cuatro minutos y le damos la vuelta.<br> <h2>Paso 3:</h2><p> Para ayudar a los que no sean muy duchos en esa operación, existen en el mercado sartenes dobles que permiten dar la vuelta a la tortilla sin riesgo de que se nos derrame.<br>
+           <center><img src="https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2019/05/tortilla-espa%C3%B1ola.jpg" width="500"height="500"></center>
+<p><em>Fuente: <a href="https://www.directoalpaladar.com/recetas-de-huevos-y-tortillas/empezando-en-la-cocina-receta-de-tortilla-de-patatas-con-cebolla">La mejor tortilla de patatas</a></em></p>
+<h2 id=buñuelos>Receta de unos buenos buñuelos</h2>
+<ul>
+            <li>Tiempo: 18 min</li>
+            <li>Para unas 7 u 8  personas</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                  <th>Ingredientes</th>        
+<th>Cantidad</th>
+  </tr>
+</thead>
+<tr>
+    <td>Agua
+    <td>200 ml
+  </tr>
+  <tr>
+    <td>Leche
+    <td>50 ml
+  </tr>
+<tr>
+    <td>Mantequilla sin sal
+    <td>40 gr
+  </tr>
+<tr>
+    <td>Huevos
+    <td>4
+  </tr>
+<tr>
+    <td>Levadura química
+    <td>5 gr
+  </tr>
+<tr>
+    <td>Sal
+    <td>Una mijiquitilla de nà
+  </tr>
+<tr>
+    <td>Azúcar blanco
+    <td>10 gr
+  </tr>
+<tr>
+    <td>Azúcar glas y canela en polvo
+    <td>Un poco para decorar
+  </tr>
+<tr>
+    <td>Aceite para freír
+    <td>Mucho
+  </tr>
+</table>
+<h2>Pasos</h2>
+<h2>Paso 1:</h2><p>Pon encima de un bol un colador y echa encima la harina para que pase a través de él (coge el colador y ve dándole golpecitos para que caigan en el bol). A este proceso se llama tamizar y sirve para que quede sin grumos ni apelmazamientos.</h3><br>
+<h2>Paso 2:</h2><p>En un cazo pon el agua junto con la leche, la mantequilla, el azúcar y la sal, a fuego medio.En cuanto empiece a hervir la mezcla y aparezcan burbujas, apaga el fuego, aparta el cazo y echa toda la harina de golpe y mezcla muy bien con una espátula o lengua de cocina hasta que no haya ningún grumo, el aspecto sea homogéneo y la masa se despegue fácilmente de las paredes del cazo.Añade un huevo al cazo y mezcla con unas varillas manuales o mejor aún eléctricas, a la velocidad más baja, y mezcla hasta que se haya integrado por completo en la masa. Haz lo mismo con el resto de los huevos, y junto con el último añade la levadura química.</h3><br>
+<h2>Paso 3:</h2><p>Tapa el recipiente con papel film y déjalo reposando en la nevera durante 1 hora.En una sartén honda o cazo echa abundante aceite, pon el fuego fuerte y cuando el aceite esté bien caliente (sin que llegue a humear), ya lo tienes listo para freír los buñuelos de viento. Si tienes un termómetro de cocina podrás medir la temperatura del aceite y empezar a freír cuando llegue a 170ºC, y si no siempre puedes echar un poquito de masa, si se quema rápidamente es que está muy fuerte el aceite y si burbujea poco es que le falta un poco de temperatura.<br>
+<h2>Paso 4:</h2><p>Prepara un plato con papel de cocina encima para ir dejando encima los buñuelos cuando estén fritos.
+Para darle forma a los buñuelos puedes optar por varias opciones. Puedes utilizar un sacabolas de helado pero cogiendo muy poquita cantidad y, con una cucharilla de café, te ayudas cada vez para ir echando la masa del sacabolas en el aceite. Otra opción es utilizar 2 cucharillas de café para ir cogiendo porciones de masa y, ayudándote con ellas, les das un poco de forma redondita y las echas en el aceite. En ambos casos, las cucharillas debes mojarlas en agua antes de coger cada porción de masa, así caerá más fácilmente al aceite y se pegará menos en las cucharillas.<br>
+<h2>Paso 5:</h2><p>Cuando tengas el aceite preparado ve echando en él tandas de masa de buñuelos de forma que puedan caber todos flotando y sin estar unos encima de otros. Ten en cuenta que crecen casi al doble de su tamaño.Sigue con el resto de tandas y si lo necesitas utiliza más platos con papel de horno para no tener que poner los buñuelos unos encima de otros.
+Espolvorea por encima azúcar glas y canela y muévelos un poco para que queden impregnados por todas partes.</h3><br>
+<img src="https://t2.rg.ltmcdn.com/es/images/6/8/0/bunuelos_de_naranja_74086_600.jpg">
+<p><em>Fuente: <a href="https://www.recetasdeescandalo.com/receta-de-bunuelos-de-viento-tradicionales-y-faciles/">Los mejores buñuelos</a></em></p>
+<h2>By:Antonio Roldán Zurita</h2>
+</html>
+<style>
+body {background-color:pink}
+h1 {color:purple}
+h2 {color:green}
+
