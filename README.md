@@ -78,19 +78,19 @@
     La dejamos sólo 2-3 minutos, sacamos la pizza del horno y volvemos a subir a tope de temperatura (250 º C) para el horneado final.
     Repartimos los quesos elegidos encima de la base que acabamos de sacar del horno.
     Primero espolvoreamos con parmesano rallado. Añadimos los trozos de queso restantes, repartidos de manera estratégica por la superficie.<br>
-             <img src="https://www.bofrost.es/writable/products/images-v2/01774.jpg"> 
-  </tr>
+<img src="https://www.bofrost.es/writable/products/images-v2/01774.jpg"> 
+</tr>
 
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
+</thead>
+<tbody>
+</tbody>
+</table>
         
       
         
-    <p><em>Fuente: <a href="https://www.recetasderechupete.com/pizza-casera-cuatro-quesos/10469/">La mejor pizza 4 quesos</a></em></p>
+<p><em>Fuente: <a href="https://www.recetasderechupete.com/pizza-casera-cuatro-quesos/10469/">La mejor pizza 4 quesos</a></em></p>
     
-    </body>
+</body>
 <h2 id=tortilla>Receta de Tortilla Española</h2>
 <ul>
 <li>Tiempo: 25 min</li>
