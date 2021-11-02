@@ -188,5 +188,8 @@ Espolvorea por encima azúcar glas y canela y muévelos un poco para que queden 
 <p><em>Fuente: <a href="https://www.recetasdeescandalo.com/receta-de-bunuelos-de-viento-tradicionales-y-faciles/">Los mejores buñuelos</a></em></p>
 <h2>By:Antonio Roldán Zurita</h2>
 </html>
-<style> body {background-color:pink} h1 {color:purple} h2 {color:green}
+<style> 
+body {background-color:pink} 
+h1 {color:purple} 
+h2 {color:green}
 
